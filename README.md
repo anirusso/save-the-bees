@@ -1,5 +1,7 @@
 # Environmental Initiative: Bee Colony Decline
 
+View the Jupyter Notebook file here: [bee_colony_decline_plot.ipynb](bee_colony_decline_plot.ipynb)
+
 Bees play an important role in our ecosystem, by pollinating flowers and enabling the fertilization and production of seeds. Bee pollination is important to the agricultural industry as well, with bee pollination supplying one third of the world’s crop production [1].
 
 However, over the past half century, the number of bee colonies worldwide has seen a decline. Though no exact source of the decline has been discovered, possible causes include parasites, disease, pesticides, and the decrease in wildflowers [2]. Bees, both wild and domestic, are necessary to keep our ecosystem in balance and to aid in crop development. Without them, we could face crop decline, increase in food prices, decreases in the quality of food and nutrition, and other resulting environmental issues.
